@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">一起快乐的学习吧</string>
+    <string name="changshi">常识</string>
+    <string name="changyongci">各种常用词</string>
+    <string name="yufa">语法</string>
+    <string name="jibenjuxing">日语基本句型</string>
+    <string name="cihuiyongfa">词汇用法</string>
+    <string name="richangyongyu">日常用语</string>
+    <string name="buzhongbufen">补充部分</string>
+    <string name="back">返回</string>
+    <string name="home">主页</string>
+    <string name="hometitle">一起快乐的学习吧</string>
+</resources>
